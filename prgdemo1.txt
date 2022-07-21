@@ -1,0 +1,13 @@
+//public main class
+public class Helloworld {
+            //class name-first alpha with CAPS
+	
+	//shortcut for main is type main +(cntl+spacebar)-suggestions+enter
+	public static void main(String[] args) {
+		//short cut for printing statement : syso+(cntl+spacebar)-suggestions+enter
+		
+		System.out.println("Hello world");
+	}
+	
+	
+}
